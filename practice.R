@@ -1,3 +1,4 @@
+c <- c(1,2,3)
 ## Practice the following problem 
 
 # What is the sum of the first 1000 positive integers?
