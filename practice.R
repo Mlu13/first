@@ -72,3 +72,11 @@ oddnum(15)
 
 x <- c(6,7,8,9)
 for(e in x){print(e)}
+
+i = 0
+while (i < 10){
+  print(i)
+  i = i - 1
+}
+
+
